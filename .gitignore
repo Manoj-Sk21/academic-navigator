@@ -1,0 +1,1 @@
+.venv/\n__pycache__/\nfaiss_index.bin\nchunk_data.pkl\n*.pyc\nconfig.py
